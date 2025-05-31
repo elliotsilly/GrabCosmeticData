@@ -3,7 +3,7 @@ using System.IO;
 using UnityEngine;
 using GorillaNetworking;
 
-[BepInPlugin("com.yourname.cosmeticdumper", "Cosmetic Dumper", "1.0.0")]
+[BepInPlugin("com.elliot.cosmeticdumper", "Cosmetic Dumper", "1.0.0")]
 public class CosmeticDumper : BaseUnityPlugin
 {
     bool hasDumped = false;
